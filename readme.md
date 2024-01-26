@@ -26,4 +26,4 @@ Mesmo estando nos estágios iniciais da minha jornada e ainda sem experiência p
 
 Sinta-se à vontade para explorar meus repositórios e testemunhar meu crescimento em primeira mão. Vamos nos conectar e embarcar juntos nessa jornada emocionante!
 
-![Snake animation](https://github.com/flaviare1s/flaviare1s/blob/output/github-contribution-grid-snake.svg)
+
