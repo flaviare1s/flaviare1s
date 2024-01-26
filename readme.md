@@ -25,3 +25,5 @@ Eu sou **Flávia Reis**, uma entusiasta da tecnologia mergulhando no mundo do De
 Mesmo estando nos estágios iniciais da minha jornada e ainda sem experiência profissional, minha dedicação e vontade de aprender me impulsionam. Estou empolgada com a perspectiva de contribuir para projetos inovadores e colaborar com pessoas de mentalidade semelhante na comunidade tecnológica.
 
 Sinta-se à vontade para explorar meus repositórios e testemunhar meu crescimento em primeira mão. Vamos nos conectar e embarcar juntos nessa jornada emocionante!
+
+![Snake animation](https://github.com/flaviare1s/flaviare1s/blob/output/github-contribution-grid-snake.svg)
