@@ -8,9 +8,13 @@ Even though I'm still at the early stages of my journey and lack professional ex
 
 Feel free to explore my repositories and witness my growth firsthand. Let's connect and embark on this exciting journey together!
 
+<div>
+<a href="https://github.com/flaviare1s">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviare1s&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviare1s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ---
-
 
 # Aspirante a Desenvolvedora Full Stack | HTML | CSS | JavaScript | React
 
