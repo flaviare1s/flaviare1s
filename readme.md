@@ -1,4 +1,4 @@
-# Aspiring Full Stack Developer | HTML | CSS | JavaScript | React
+# Aspiring Full Stack Developer | HTML | CSS | JavaScript | React | Node.js
 
 ## Welcome to my GitHub!
 
@@ -16,7 +16,7 @@ Feel free to explore my repositories and witness my growth firsthand. Let's conn
 
 ---
 
-# Aspirante a Desenvolvedora Full Stack | HTML | CSS | JavaScript | React
+# Aspirante a Desenvolvedora Full Stack | HTML | CSS | JavaScript | React | Node.js
 
 ## Bem-vindo(a) ao meu GitHub!
 
