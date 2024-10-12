@@ -27,7 +27,7 @@ Feel free to explore my repositories and witness my growth firsthand. Let's conn
 
 ## Bem-vindo(a) ao meu GitHub!
 
-Eu sou **Flávia Reis**, uma entusiasta da tecnologia mergulhando no mundo do Desenvolvimento Full Stack. Atualmente, estou explorando os domínios de HTML, CSS, Tailwind, Bootstrap, JavaScript, React, Node, Express, Sequelize, MySQL, Firebase e Git.
+Eu sou **Flávia Reis**, uma entusiasta da tecnologia mergulhando no mundo do Desenvolvimento Full Stack. Atualmente, estou explorando os domínios de HTML, CSS, Tailwind, Bootstrap, JavaScript, React, Node, Express, Sequelize, MySQL, Firebase, Git e desenvolvimento de games com Unity e C#.
 
 Mesmo estando nos estágios iniciais da minha jornada e ainda sem experiência profissional, minha dedicação e vontade de aprender me impulsionam. Estou empolgada com a perspectiva de contribuir para projetos inovadores e colaborar com pessoas de mentalidade semelhante na comunidade tecnológica.
 
