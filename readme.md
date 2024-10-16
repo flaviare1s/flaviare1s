@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub!
 
-I'm **Flávia Reis**, a passionate technology enthusiast diving into the world of Full Stack Development. Currently, I'm delving into the realms of HTML, CSS, Tailwind, Bootstrap, JavaScript, React, Node, Express, Sequelize, MySQL, Firebase and Git.
+I'm **Flávia Reis**, a passionate technology enthusiast diving into the world of Full Stack Development. Currently, I'm delving into the realms of HTML, CSS, Tailwind, Bootstrap, JavaScript, React, Node, Express, Sequelize, MySQL, Firebase, C#, Unity and Git.
 
 Even though I'm still at the early stages of my journey and lack professional experience, my dedication and eagerness to learn drive me forward. I'm excited about the prospect of contributing to innovative projects and collaborating with like-minded individuals in the tech community.
 
