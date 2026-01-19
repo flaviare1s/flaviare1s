@@ -1,4 +1,4 @@
-# Flávia Reis - Desenvolvedora Full Stack
+# Flávia Reis - Dev Full Stack
 
 ## Bem-vindo(a) ao meu GitHub!
 
