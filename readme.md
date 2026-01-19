@@ -1,12 +1,17 @@
-# 💻 Desenvolvedora Full Stack | React | Node.js | Spring Boot | HTML | CSS | JavaScript | TypeScript | Java 
+# Flávia Reis - Desenvolvedora Full Stack
 
-## 👋 Bem-vindo(a) ao meu GitHub!
+## Bem-vindo(a) ao meu GitHub!
 
 Minha trajetória na tecnologia é movida pela curiosidade. Comecei consolidando bases no Frontend com React e expandi para o Backend com Java/Spring e Node.js, sempre com o objetivo de entregar soluções completas e eficientes.
 
 Hoje, meu foco está na interseção entre o desenvolvimento tradicional e a Inteligência Artificial, explorando como ferramentas inteligentes podem otimizar a experiência do usuário e a resolução de problemas complexos.
 
-📫 Vamos conectar? Explore meus projetos abaixo ou entre em contato para trocarmos ideias sobre tecnologia e inovação.
+Vamos conectar? Explore meus projetos abaixo ou entre em contato para trocarmos ideias sobre tecnologia e inovação.
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviare1s&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&icon_color=8B5CF6&text_color=FFF&border_radius=10&count_private=false&include_all_commits=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviare1s&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&text_color=FFF&border_radius=10&count_private=false&include_all_commits=false" />
+</div>
 
 ## 🛠️ Tecnologias
 
@@ -59,15 +64,20 @@ Hoje, meu foco está na interseção entre o desenvolvimento tradicional e a Int
 
 ---
 
-# 💻 Full Stack Developer | React | Node.js | Spring Boot | HTML | CSS | JavaScript | TypeScript | Java 
+# Flávia Reis - Full Stack Developer
 
-## 👋 Welcome to my GitHub!
+## Welcome to my GitHub!
 
 My journey in technology is driven by curiosity. I began by consolidating my foundations in Frontend with React and expanded to Backend with Java/Spring and Node.js, always with the goal of delivering complete and efficient solutions.
 
 Today, my focus is on the intersection between traditional development and Artificial Intelligence, exploring how intelligent tools can optimize user experience and the resolution of complex problems.
 
-📫 Let's connect? Explore my projects below or contact me to exchange ideas about technology and innovation.
+Let's connect? Explore my projects below or contact me to exchange ideas about technology and innovation.
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviare1s&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&icon_color=8B5CF6&text_color=FFF&border_radius=10&count_private=false&include_all_commits=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviare1s&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&text_color=FFF&border_radius=10&count_private=false&include_all_commits=false" />
+</div>
 
 ## 🛠️ Technologies
 
