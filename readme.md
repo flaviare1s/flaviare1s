@@ -9,9 +9,12 @@ Hoje, meu foco está na interseção entre o desenvolvimento tradicional e a Int
 Vamos conectar? Explore meus projetos abaixo ou entre em contato para trocarmos ideias sobre tecnologia e inovação.
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviare1s&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&icon_color=8B5CF6&text_color=FFF&border_radius=10&count_private=false&include_all_commits=false" />
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviare1s&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&text_color=FFF&border_radius=10&count_private=false&include_all_commits=false" /> -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=flaviare1s&show_icons=true&theme=dracula&count_private=true" />
 </div>
+
+<!-- <div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=flaviare1s&layout=compact&theme=dracula" />
+</div> -->
 
 ## 🛠️ Tecnologias
 
@@ -75,9 +78,12 @@ Today, my focus is on the intersection between traditional development and Artif
 Let's connect? Explore my projects below or contact me to exchange ideas about technology and innovation.
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviare1s&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&icon_color=8B5CF6&text_color=FFF&border_radius=10&count_private=false&include_all_commits=false" />
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviare1s&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&text_color=FFF&border_radius=10&count_private=false&include_all_commits=false" /> -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=flaviare1s&show_icons=true&theme=dracula&count_private=true" />
 </div>
+
+<!-- <div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=flaviare1s&layout=compact&theme=dracula" />
+</div> -->
 
 ## 🛠️ Technologies
 
